@@ -3,7 +3,7 @@ Mobile JSON Wire Protocol Specification
 https://github.com/SeleniumHQ/mobile-spec/blob/master/spec-draft.md
 ### *DRAFT*
 
-Introduction
+Int
 ------------
 This specification is designed to extend the [JSON Wire
 Protocol](https://code.google.com/p/selenium/wiki/JsonWireProtocol) (JSONWP),
